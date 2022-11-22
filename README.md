@@ -17,10 +17,10 @@
 [`A_B_test`][4]
 
 
-[1]: https://github.com/egorichya/Ya.praktikum/tree/master/telecom_company
-[2]: https://github.com/egorichya/Ya.praktikum/tree/master/A_A_B_test_web_app
-[3]: https://github.com/egorichya/Ya.praktikum/tree/master/web_service
-[4]: https://github.com/egorichya/Ya.praktikum/tree/master/A_B_test
+[1]: https://github.com/Egorichya/Ya.praktikum/tree/main/telecom_company
+[2]: https://github.com/Egorichya/Ya.praktikum/tree/main/A_A_B_test_web_app
+[3]: https://github.com/Egorichya/Ya.praktikum/tree/main/web_service
+[4]: https://github.com/Egorichya/Ya.praktikum/tree/main/A_B_test
  
 
 ### [1. Статистический анализ данных. Определение перспективного тарифа для телеком-компании на основе данных клиентов.][1]
