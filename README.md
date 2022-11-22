@@ -17,7 +17,7 @@
 [`A_B_test`][4]
 
 
-[1]: https://github.com/Egorichya/Ya.praktikum/tree/main/telecom_company
+[1]:https://github.com/Egorichya/Ya.practicum/tree/main/telecom_company
 [2]: https://github.com/Egorichya/Ya.praktikum/tree/main/A_A_B_test_web_app
 [3]: https://github.com/Egorichya/Ya.praktikum/tree/main/web_service
 [4]: https://github.com/Egorichya/Ya.praktikum/tree/main/A_B_test
