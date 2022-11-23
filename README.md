@@ -18,10 +18,9 @@
 
 
 [1]: https://github.com/Egorichya/Ya.practicum/tree/main/telecom_company
-[2]: https://github.com/Egorichya/Ya.praktikum/tree/main/A_A_B_test_web_app
-[3]: https://github.com/Egorichya/Ya.praktikum/tree/main/web_service
-[4]: https://github.com/Egorichya/Ya.praktikum/tree/main/A_B_test
- 
+[2]: https://github.com/Egorichya/Ya.practicum/tree/main/A_A_B_test_web_app
+[3]: https://github.com/Egorichya/Ya.practicum/tree/main/web_service
+[4]: https://github.com/Egorichya/Ya.practicum/tree/main/A_B_test
 
 ### [1. Статистический анализ данных. Определение перспективного тарифа для телеком-компании на основе данных клиентов.][1]
 - Анализ поведения клиентов по выборке:
